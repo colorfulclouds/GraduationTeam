@@ -4,3 +4,6 @@
 [submodule "YuFeifei/graduation_design_v2"]
 	path = YuFeifei/graduation_design_v2
 	url = https://github.com/colorfulclouds/graduation_design_v2.git
+[submodule "JiaZhipeng/jzpfs2"]
+	path = JiaZhipeng/jzpfs2
+	url = https://github.com/Kittoa/jzpfs2.git
