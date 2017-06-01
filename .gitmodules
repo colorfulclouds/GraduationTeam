@@ -1,3 +1,6 @@
 [submodule "LiuYuhan/LNet"]
 	path = LiuYuhan/LNet
 	url = https://github.com/gitliuyuhan/LNet.git
+[submodule "YuFeifei/graduation_design_v2"]
+	path = YuFeifei/graduation_design_v2
+	url = https://github.com/colorfulclouds/graduation_design_v2.git
