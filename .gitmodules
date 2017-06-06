@@ -7,3 +7,6 @@
 [submodule "JiaZhipeng/jzpfs2"]
 	path = JiaZhipeng/jzpfs2
 	url = https://github.com/Kittoa/jzpfs2.git
+[submodule "LiuYuhan/Quoridor_cocos"]
+	path = LiuYuhan/Quoridor_cocos
+	url = https://github.com/gitliuyuhan/Quoridor_cocos.git
