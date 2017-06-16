@@ -10,3 +10,6 @@
 [submodule "LiuYuhan/Quoridor_cocos"]
 	path = LiuYuhan/Quoridor_cocos
 	url = https://github.com/gitliuyuhan/Quoridor_cocos.git
+[submodule "WeiJiadong/mempool"]
+	path = WeiJiadong/mempool
+	url = https://github.com/WeiJiadong/mempool.git
